@@ -1,2 +1,2 @@
-# automatic_irrigation_system
-In this post we will create an automatic Arduino irrigation system for your plants, using Moisture Sensor, LEDs, Buzzer and Submersive Water Pump.
+# Automatic Irrigation System
+Programa responsavel por ficar monitorando o solo onde estar a planta, monitorar o nivel da água do reservatorio para acionar a bomba d'água junto com os leds que funcionará como sinal para o usuário se o reservatorio precisa de mais água ou não.
